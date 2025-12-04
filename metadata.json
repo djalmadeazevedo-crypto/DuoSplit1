@@ -1,0 +1,7 @@
+{
+  "name": "DuoSplit AI -4Dec25",
+  "description": "A smart expense manager for couples/roommates with Gemini-powered receipt scanning and spending insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
